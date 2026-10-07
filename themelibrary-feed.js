@@ -1,3 +1,5 @@
+// This script hides Theme Library entries from the Activity Feed on our designservices tenant
+
 $(document).ready(function () {
 
     function checkCard(card) {
